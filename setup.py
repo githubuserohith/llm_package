@@ -2,8 +2,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='my_kfp_package1',
-    version='0.1',
+    name='my_kfp_package',
+    version='0.2',
     packages=find_packages(),
     install_requires=[
         'kfp',
